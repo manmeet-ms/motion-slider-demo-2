@@ -1,3 +1,14 @@
 html{
   scroll-behavior: smooth;
 }
+
+.container__bg__image {
+  flex: 1;
+  background-image: url("https://placeholder.co/600x400");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 2em;
+  border-top-left-radius: 1em;
+  border-bottom-left-radius: 1em;
+}
